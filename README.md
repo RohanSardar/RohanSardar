@@ -5,10 +5,12 @@ Hi there 👋
 
 
 🌱 I’m currently learning Python
+
 ⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
 
 
 https://www.codewars.com/users/RohanSardar/badges/large
+
 https://www.linkedin.com/in/rohan-sardar-ab10a8229/
 
 <!--
