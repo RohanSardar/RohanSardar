@@ -1,12 +1,20 @@
 Hi there 👋
 
-😄 I'm Rohan Sardar from the great nation of India
+😄 I'm Rohan Sardar from the nation of India
+
+
+
+
 
 
 
 🌱 I’m currently learning Python
 
 ⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
+
+
+
+
 
 
 https://www.codewars.com/users/RohanSardar/badges/large
