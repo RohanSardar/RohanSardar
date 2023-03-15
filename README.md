@@ -16,10 +16,11 @@ Hi there 👋
 
 
 
+https://leetcode.com/rohansardar/
 
 https://www.codewars.com/users/RohanSardar/badges/large
 
-https://www.linkedin.com/in/rohan-sardar-ab10a8229/
+https://www.linkedin.com/in/rohansardar/
 
 <!--
 **RohanSardar/RohanSardar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
