@@ -22,7 +22,7 @@ https://www.codewars.com/users/RohanSardar/badges/large
 
 https://www.linkedin.com/in/rohansardar/
 
-[![An image of @rohansardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansardar)](https://holopin.io/@rohansardar)
+
 
 
 <!--
