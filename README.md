@@ -1,6 +1,6 @@
-Hi there 👋
+## Hi there 👋
 
-😄 I'm Rohan Sardar from the nation of India (BHARAT)
+😄 I'm Rohan Sardar from the nation of **India** (***BHARAT***)
 
 
 
