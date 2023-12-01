@@ -8,7 +8,7 @@
 
 
 
-🌱 I’m currently learning C, C#, C++ and updating my Python knowledge
+🌱 I’m currently learning PyTorch, NumPy, Pandas, Matplotlib, Seaborn and updating my Python knowledge
 
 ⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
 
