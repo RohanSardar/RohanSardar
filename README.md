@@ -7,7 +7,6 @@
 
 🌱 I’m currently learning AI-ML, DSA and updating my Python knowledge
 
-
 <img src="https://img.shields.io/badge/-logo?style=social&logo=scikit-learn&label=scikit-learn" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=pytorch&label=PyTorch" height=50>
