@@ -5,19 +5,7 @@
 😄 I'm Rohan Sardar from the nation of **India** (***BHARAT***)
 
 
-
-
-
-
-
-🌱 I’m currently learning Scikit-Learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn and updating my Python knowledge
-<img src="https://img.shields.io/badge/-logo?style=social&logo=scikit-learn&label=scikit-learn" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=pytorch&label=PyTorch" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=numpy&label=NumPy" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=pandas&label=pandas" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=matplotlib&label=matplotlib" height=50>
-<img src="https://img.shields.io/badge/-logo?style=social&logo=seaborn&label=seaborn" height=50>
+🌱 I’m currently learning AI-ML, DSA and updating my Python knowledge
 
 
 ⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
@@ -34,6 +22,13 @@
 
 
 [![An image of @rohansardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansardar)](https://holopin.io/@rohansardar)
+
+<img src="https://img.shields.io/badge/-logo?style=social&logo=scikit-learn&label=scikit-learn" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=pytorch&label=PyTorch" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=numpy&label=NumPy" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=pandas&label=pandas" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=streamlit&label=Streamlit" height=50>
 
 
 <!--
