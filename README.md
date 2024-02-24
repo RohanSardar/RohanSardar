@@ -1,4 +1,4 @@
-<img src="https://github.com/RohanSardar/RohanSardar/assets/77870108/5e6b7c0a-1da7-41df-8577-f74931b55c54.png">
+<img src="https://github.com/RohanSardar/RohanSardar/assets/77870108/5e6b7c0a-1da7-41df-8577-f74931b55c54.png" alt="Rohan Sardar">
 
 <img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
 
@@ -13,6 +13,10 @@
 
 
 🌱 I’m currently learning Scikit-Learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn and updating my Python knowledge
+<img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
+<img src="https://img.shields.io/badge/-logo?style=social&logo=scikit-learn&label=scikit-learn" height=50>
+
+
 
 ⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
 
