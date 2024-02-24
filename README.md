@@ -6,16 +6,15 @@
 
 
 🌱 I’m currently learning AI-ML, DSA and updating my Python knowledge
-
-
-⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
-
 <img src="https://img.shields.io/badge/-logo?style=social&logo=scikit-learn&label=scikit-learn" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=pytorch&label=PyTorch" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=numpy&label=NumPy" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=pandas&label=pandas" height=50>
 <img src="https://img.shields.io/badge/-logo?style=social&logo=streamlit&label=Streamlit" height=50>
+
+⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
+
 
 
 
