@@ -1,4 +1,4 @@
-<img src="https://github.com/RohanSardar/RohanSardar/assets/77870108/5e6b7c0a-1da7-41df-8577-f74931b55c54", alt="Rohan Sardar">
+<img src="https://github.com/RohanSardar/RohanSardar/assets/77870108/5e6b7c0a-1da7-41df-8577-f74931b55c54.png", alt="Rohan Sardar">
 
 
 ## Hi there 👋
