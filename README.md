@@ -1,7 +1,6 @@
 <img src="https://github.com/RohanSardar/RohanSardar/assets/77870108/5e6b7c0a-1da7-41df-8577-f74931b55c54.png">
 
-[![Static Badge](https://img.shields.io/badge/TensorFlow?logo=Tensorflow&label=TensorFlow)](https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow)
-
+<img src="https://img.shields.io/badge/-logo?style=social&logo=tensorflow&label=TensorFlow" height=50>
 
 ## Hi there 👋
 
