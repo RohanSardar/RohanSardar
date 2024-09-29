@@ -4,8 +4,9 @@
 
 😄 I'm Rohan Sardar from the nation of **India** (***BHARAT***)
 
-
 🌱 I’m currently learning AI-ML, DSA and updating my Python knowledge
+
+⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO
 
 <h2>Tools, frameworks and libraries learned and used</h2>
 <p align="left">
@@ -20,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
@@ -53,16 +55,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 </p>
 
-⚡ Fun fact: I'm from West Bengal, India and bengali is the sweetest language in the World as per UNESCO.
-
-
-
-
-[LeetCode](https://leetcode.com/rohansardar/)
-
-[Codewars](https://www.codewars.com/users/RohanSardar/badges/large)
-
-[LinkedIn](https://www.linkedin.com/in/rohansardar/)
+<h2>Socials</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/rohansardar">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/rohansardar">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+<a href="https://www.codewars.com/users/RohanSardar">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+</a>
+<a href="https://www.kaggle.com/rohansardar">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+</p>
 
 
 [![An image of @rohansardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansardar)](https://holopin.io/@rohansardar)
