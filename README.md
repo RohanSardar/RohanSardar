@@ -2,11 +2,11 @@
 
 ## Hi there 👋
 
-😄 I'm Rohan Sardar from the nation of **India** (***भारत***)
+😄 I'm Rohan Sardar from the nation of **India** (**भारत**)
 
 🌱 I’m currently learning AI-ML, DSA and updating my Python knowledge
 
-⚡ Fun fact: I'm from West Bengal, India and Bengali (***বাংলা***) is the sweetest language in the World as per UNESCO
+⚡ Fun fact: I'm from West Bengal, India and Bengali (**বাংলা**) is the sweetest language in the World as per UNESCO
 
 <h2>Tools, frameworks and libraries learned and used</h2>
 <p align="left">
