@@ -1,0 +1,93 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Header Section */
+header {
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-title {
+    font-size: 4rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+/* Education, Projects, Certifications, and Social Sections */
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.sub-title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.content {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.container p {
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+/* Social Media Icons */
+.socials a {
+    margin: 0 15px;
+    font-size: 2.5rem;
+}
+
+.socials i {
+    color: white;
+    transition: color 0.3s ease;
+}
+
+.socials a:hover i {
+    color: #0073b1; /* LinkedIn Blue */
+}
+
+/* Footer */
+footer {
+    background: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+    .container {
+        padding: 0 10px;
+    }
+
+    .sub-title {
+        font-size: 2rem;
+    }
+
+    .socials a {
+        margin: 0 10px;
+        font-size: 2rem;
+    }
+}
