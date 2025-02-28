@@ -70,6 +70,9 @@
 </a>
 </p>
 
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanSardar&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohanSardar&theme=dark)](https://git.io/streak-stats)
+
 
 [![An image of @rohansardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansardar)](https://holopin.io/@rohansardar)
 
