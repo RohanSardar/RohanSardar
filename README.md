@@ -71,7 +71,7 @@
 </p>
 
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanSardar&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RohanSardar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohanSardar)](https://git.io/streak-stats)
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSardar&size_weight=0.5&count_weight=0.5&layout=compact" alt="GitHub Streak">
 </p>
